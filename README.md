@@ -17,8 +17,7 @@ Each day, a new solution will be added to the repository, organized by day numbe
 
 | Days   | Problem Name                           | Difficulty | 
 |--------|----------------------------------------|------------|
-| Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/)                              | Easy       |
-| Day 01 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)          | Easy       |
+| Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              | Easy       |
 | Day 02 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       |
 | Day 03 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       |
 | Day 04 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)             | Easy       |
