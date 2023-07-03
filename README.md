@@ -1,4 +1,4 @@
-# 60-Day LeetCode Challenge
+# DSA Challenge Tutort Academy
 
 Welcome to the 60-Day LeetCode Challenge! This challenge is designed to help you prepare for FAANG companies and develop consistency in your problem-solving skills. In this repository, you will find my solutions to various LeetCode problems.
 
