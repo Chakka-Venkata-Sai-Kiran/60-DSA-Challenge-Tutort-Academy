@@ -1,6 +1,6 @@
 # DSA Challenge by Tutort Academy
 
-Welcome to the DSA Challenge by Tutort Academy! This challenge is designed to help you prepare for FAANG companies and develop consistency in your problem-solving skills. In this repository, you will find my solutions to various LeetCode problems.
+Namasthe people, I'm Saikiran welcoming you all to the DSA Challenge by Tutort Academy! This challenge is designed to help you prepare for FAANG companies and develop consistency in your problem-solving skills. In this repository, you will find my solutions to various LeetCode problems.
 
 ## Challenge Guidelines
 
@@ -18,7 +18,7 @@ Each day, a new solution will be added to the repository, organized by day numbe
 | Days   | Problem Name                           | Difficulty | 
 |--------|----------------------------------------|------------|
 | Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              | Easy       |
-| Day 02 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       |
+| Day 02 | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Merge Two Sorted Lists</a> | Easy       |
 | Day 03 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       |
 | Day 04 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)             | Easy       |
 | Day 05 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)          | Easy       |
