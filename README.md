@@ -13,12 +13,12 @@ Namasthe people, I'm Saikiran welcoming you all to the DSA Challenge by Tutort A
 
 ## Repository Structure
 
-Each day, a new solution will be added to the repository, organized by day number and problem difficulty. The solutions are implemented in C++.
+A new solution will be added to the repository each day, organized by day number and problem difficulty. The solutions are implemented in C++.
 
 | Days   | Problem Name                           | Difficulty | 
 |--------|----------------------------------------|------------|
-| Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              | Easy       |
-| Day 02 | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Merge Two Sorted Lists</a> | Easy       |
+| Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       |
+| Day 02 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       |
 | Day 03 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       |
 | Day 04 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)             | Easy       |
 | Day 05 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)          | Easy       |
@@ -77,6 +77,7 @@ Each day, a new solution will be added to the repository, organized by day numbe
 | Day 58 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard       |
 | Day 59 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)          | Hard       |
 | Day 60 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard       |
+
 
 
 Let's start the challenge and work towards our goal of cracking FAANG company interviews! Happy coding!
