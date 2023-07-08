@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/invert-binary-tree/">Day 05(Invert Binary Tree)</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, invert the tree, and return <em>its root</em>.</p>
+<h2><a href="https://leetcode.com/problems/invert-binary-tree/">Day 05 (Invert Binary Tree)</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, invert the tree, and return <em>its root</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
